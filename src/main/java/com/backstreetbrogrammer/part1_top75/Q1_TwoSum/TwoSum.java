@@ -1,4 +1,4 @@
-package com.backstreetbrogrammer.Q1_TwoSum;
+package com.backstreetbrogrammer.part1_top75.Q1_TwoSum;
 
 import java.util.HashMap;
 import java.util.Map;

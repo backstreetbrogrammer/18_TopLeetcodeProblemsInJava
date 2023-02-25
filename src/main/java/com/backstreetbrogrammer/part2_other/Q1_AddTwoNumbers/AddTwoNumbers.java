@@ -1,4 +1,4 @@
-package com.backstreetbrogrammer.Q2_AddTwoNumbers;
+package com.backstreetbrogrammer.part2_other.Q1_AddTwoNumbers;
 
 import com.backstreetbrogrammer.ListNode;
 
